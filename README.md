@@ -17,7 +17,8 @@ It includes:
 - An introduction and “About Me” section
 - My teaching approach
 - Links to helpful materials
-- A responsive layout available in PL/EN/FR
+- A responsive layout implemented with Bootstrap available in PL/EN/FR
+- featuring two custom-made SVG icons (created in Figma)
 
 ## Copyrights:
 
