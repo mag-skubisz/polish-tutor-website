@@ -1,0 +1,34 @@
+.lang-btn {
+  text-decoration: none;
+  font-weight: bold;
+  color: #2e2e2e;
+  background-color: #f5ede2;
+  border: 1px solid #c9a86b;
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.lang-btn:hover {
+  background-color: #e5d7c0;
+  color: #000;
+}
+header {
+  border-bottom: 3px solid #4f4533;
+}
+footer {
+  border-top: 1px solid #4f4533;
+}
+.col-12.col-lg-6 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.text p {
+  margin: 0.3em 0;
+  line-height: 1.5;
+}
+.icon-link {
+  margin: 0 10px;
+}
+
+
