@@ -1,11 +1,6 @@
 # polish-tutor-website
 A simple, multilingual website presenting my Polish tutoring services, teaching approach, and useful resources for language learners.
 
-## About this website
-
-This is my personal website as a Polish language tutor. It contains original content created by me, including lesson descriptions, language learning resources, my personal photo, and my logo.
-All text, images, and materials are protected by copyright.
-
 ## Poject Overview
 
 This is a simple static website built using:
