@@ -1,19 +1,5 @@
 # polish-tutor-website
-A simple, multilingual website presenting my Polish tutoring services, teaching approach, and useful resources for language learners.
-
-## Poject Overview
-
-This is a simple static website built using:
-- HTML
-- CSS
-- JavaScript
-
-It includes:
-- An introduction and “About Me” section
-- My teaching approach
-- Links to helpful materials
-- A responsive layout implemented with Bootstrap available in PL/EN/FR
-- featuring two custom-made SVG icons (created in Figma)
+A simple, multilingual static website presenting my Polish tutoring services, teaching approach, and useful resources for language learners.
 
 ## Copyrights:
 
